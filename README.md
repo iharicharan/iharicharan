@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 I am a Web developer.
 ----------------------------
 I am skilled in front-end technologies like Javascript,Jquery,React-JS,CSS3,SCSS and Backend technologies such as NodeJS and Express. 
@@ -13,4 +13,4 @@ I am skilled in front-end technologies like Javascript,Jquery,React-JS,CSS3,SCSS
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
