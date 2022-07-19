@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <!--
-**iharicharan/iharicharan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I am a Web developer.
+----------------------------
+I am skilled in front-end technologies like Javascript,Jquery,React-JS,CSS3,SCSS and Backend technologies such as NodeJS and Express. 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
