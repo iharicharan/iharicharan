@@ -1,32 +1,16 @@
-Hi 👋 My name is VenkataHari
-=======================
-
-I am a Web developer.
-----------------------------
-
-I am skilled in front-end technologies like Javascript,Jquery,React-JS,CSS3,SCSS and Backend technologies such as NodeJS and Express. 
-
-## Some things about me:
-
-* ⚡ Here's my website 
-
-* ✉️  You can contact me at [venkatahari666@gmail.com](mailto:venkatahari666@gmail.com) 
-
-* 🤝  I build things with HTML,CSS,JS,ReactJs and ExpressJs.
-
-* 🤝  I'm open to collaborating on Front end, backend projects or full stack projects.
- 
-* ⚡  I create content around web development on twitter.
-
-* ⚡  I love to Learn New Things .
+### Hi there, I'm [venkata-hari!](https://anuraghazra.github.io) 👋
 
 
 
+Hi, I'm VenkataHari, a passionate self-taught  web developer from India.
 
-<a href="https://www.twitter.com/" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+- 🔭 I’m currently working on [Express Js ,ReactJs](https://github.com/timelessco/renderless-components)
+- 🌱 I’m currently learning Babylon.js
+- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+- 💬 Ask me about anything [here](https://twitter.com/coolprogrammer2)
+
+
+
 
 
 ### Skills
