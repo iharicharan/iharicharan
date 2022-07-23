@@ -4,9 +4,9 @@
 
 Hi, I'm VenkataHari, a passionate self-taught  web developer from India.
 
-- 🔭 I’m currently working on [Express Js ,ReactJs](https://github.com/timelessco/renderless-components)
+- 🔭 I’m currently working on [Express Js ,ReactJs]
 - 🌱 I’m currently learning Babylon.js
-- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+- 👯 I'm open to collaborating on Front end, or Backend end
 - 💬 Ask me about anything [here](https://twitter.com/coolprogrammer2)
 
 
@@ -24,6 +24,7 @@ Hi, I'm VenkataHari, a passionate self-taught  web developer from India.
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="Heroku" /></a>  
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 </p>
 
