@@ -1,4 +1,4 @@
-### Hi there, I'm [venkata-hari!](https://anuraghazra.github.io) 👋
+### Hi there, I'm [venkata-hari!] 👋
 
 
 
